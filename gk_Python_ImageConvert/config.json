@@ -1,0 +1,14 @@
+{
+    "width": 1080,
+    "height": 1080,
+    "keep_ratio": true,
+    "format": "PNG",
+    "language": "en",
+    "prefix": "gk_",
+    "shortcuts": {
+        "open": "<Control-o>",
+        "save": "<Control-q>",
+        "batch": "<Control-b>",
+        "quit": "<Control-q>"
+    }
+}
